@@ -19,3 +19,14 @@ yarn-error.log
 /.idea
 /.vscode
 /.zed
+
+# Prettier
+.prettierignore
+.prettierrc
+.prettierrc.json
+.prettierrc.yaml
+.prettierrc.yml
+.prettierrc.js
+.prettierrc.cjs
+prettier.config.js
+prettier.config.cjs
